@@ -168,6 +168,14 @@ body{
 }
 
 
+.image{
+    height: 180px;
+
+}
+
+.first{
+    margin-top: 24px;
+}
 
 
 
@@ -193,11 +201,13 @@ body{
 
 
 
-/* @media (max-width: 412px) {
-    .journey{
-        height: 140px;
+
+
+@media (max-width: 414px) {
+    .image{
+        height: 200px;
     }
-  } */
+  }
 
 
 
