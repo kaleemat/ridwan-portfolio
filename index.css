@@ -1,0 +1,216 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px solid blue; */
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    /* font-family: 'PT Sans', sans-serif; */
+    background-color: white;
+}
+
+.navbar-nav a{
+    color: black;
+    font-weight: 450;
+    
+}
+
+.hi{
+    font-weight: 500;
+    font-size: 3rem;
+    color: #1919e6;
+    text-shadow: grey 1px 3px;
+    margin-top: 140px;
+    /* font-family: 'PT Sans', sans-serif; */
+}
+
+.sect1{
+    margin-top: 70px;
+    height: 90vh;
+}
+
+
+.name{
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+.sect1 .container{
+    line-height: 30px;
+}
+
+
+
+.comment{
+    color: white;
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 50%;
+    box-shadow: 1px 4px 6px;
+    padding: 20px;
+    position: fixed;
+    z-index: 999;
+    bottom: 20px;
+    right: 20px;
+}
+
+.projects{
+    font-size: 40px;
+    text-shadow: gray 1px 3px;
+    margin-top: 140px;
+}
+
+.webname{
+    font-size: 19px;
+    font-weight: 500;
+    color: black;
+}
+
+.card p{
+    font-weight: 400;
+}
+
+.first{
+    margin-top: 9px;
+}
+
+
+.third{
+    margin-top: 5px;
+}
+
+.viewmore{
+    justify-content: center;
+}
+
+.viewmore a{
+    text-decoration: none;
+    color: blue;
+}
+
+
+
+.sect3{
+    height: 190vh;
+    /* background-color: yellow; */
+}
+
+.sect3 .tech h2{
+    font-size: 50px;
+    text-shadow: gray 1px 3px;    
+}
+
+
+.sect3.tech p{
+    font-weight: 400;
+}
+
+.sect3 .about h2{
+    font-size: 50px;
+    text-shadow: gray 1px 3px;    
+}
+
+
+.sect3.about p{
+    font-weight: 400;
+
+}
+
+.about{
+    margin-top: 100px;
+}
+
+.testimony{
+    margin-top: 40px;
+    background-color: whitesmoke;
+    height: 56vh;
+    
+}
+
+.testimony h2{
+    font-size: 50px;
+    text-shadow: gray 1px 3px;    
+}
+
+
+.testimony p{
+    font-weight: 400;
+
+}
+
+.ceo{
+    font-size: 12px;
+    margin-left: 150px;
+}
+
+.heritage{
+    font-size: 12px;
+    margin-left: 150px;
+}
+
+.anam{
+    font-size: 12px;
+    margin-left: 150px;
+}
+
+.suly{
+    font-size: 12px;
+    margin-left: 105px;
+}
+
+.copywright{
+    margin-top: 200px;
+    justify-content: center;
+    place-content: center;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media (max-width: 412px) {
+    .journey{
+        height: 140px;
+    }
+  } */
+
+
+
+
+
+
+
+
+
+
+
+
